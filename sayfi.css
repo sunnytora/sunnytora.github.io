@@ -17,12 +17,21 @@ twi int {
 twi couv {
   display: block;
   width: 430px;
+  height:150px;
   border-bottom: 4px solid #fcfcfc;
   overflow: hidden;
 }
 
-twi couv img {
+twi couv img, twi gif img {
   width: 430px;
+}
+
+twi gif {
+  display: block;
+  width: 430px;
+  height:255px;
+  overflow: hidden;
+  margin:20px auto -40px;
 }
 
 twi profil {
