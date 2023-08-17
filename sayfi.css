@@ -21,10 +21,9 @@ twi couv {
   overflow: hidden;
 }
 
-twi couv img, twi gif img {
-  width: 425px;
-  margin:auto!important;
-  padding:2px;
+twi couv img {
+  width: 430px;
+  height: auto;
 }
 
 twi gif {
@@ -64,6 +63,7 @@ twi irl {
   display: block;
   font: 700 11px/14px roboto;
   letter-spacing: 1px;
+  margin: 5px 15px;
   text-align: justify;
 }
 
@@ -88,5 +88,5 @@ twi b {
 twi irl {
   font: 400 11px/14px roboto;
   letter-spacing: initial;
-  margin: 20px 5px 15px;
+  margin: 20px 15px 15px;
 }
