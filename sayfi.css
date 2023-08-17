@@ -2,14 +2,14 @@
 
 twi {
   display: block;
-  width: 435px;
+  width: 430px;
   padding: 30px;
   margin: auto;
 }
 
 twi int {
   display: block;
-  width: 435px;
+  width: 430px;
   background: #fcfcfc;
   padding: 2px;
 }
@@ -24,6 +24,8 @@ twi couv {
 
 twi couv img, twi gif img {
   width: 430px;
+  margin:auto;
+  padding:2px;
 }
 
 twi gif {
