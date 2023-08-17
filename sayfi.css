@@ -7,7 +7,6 @@ twi {
 }
 
 twi int {
-  display: block;
   width: 430px;
   background: #fcfcfc;
   padding: 2px;
