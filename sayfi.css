@@ -1,21 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Assistant:wght@400;700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 twi {
-  width: 430px;
-  padding: 30px;
-  margin: auto;
+	display: block;
+	width: 430px;
+	padding: 5px;
+	margin: auto;
+	border-width: 30px;
+	border-style: solid;
 }
 
 twi int {
-  width: 430px;
-  background: #fcfcfc;
-  padding: 5px;
+	display: block;
+	width: 430px;
+	background: #fcfcfc;
 }
 
 twi couv {
-  display: block;
-  width: 430px;
-  text-align:center;
+	display: block;
+	width: 430px;
+	border-bottom: 4px solid #fcfcfc;
 }
 
 twi couv img {
