@@ -18,13 +18,12 @@ twi couv {
   display: block;
   width: 430px;
   height:150px;
-  border-bottom: 4px solid #fcfcfc;
   overflow: hidden;
 }
 
 twi couv img, twi gif img {
   width: 425px;
-  margin:auto;
+  margin:auto!important;
   padding:2px;
 }
 
@@ -32,7 +31,6 @@ twi gif {
   display: block;
   width: 430px;
   height:255px;
-  border-bottom: 4px solid #fcfcfc;
   overflow: hidden;
 }
 
