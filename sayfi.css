@@ -17,8 +17,6 @@ twi int {
 twi couv {
   display: block;
   width: 430px;
-  height:150px;
-  overflow: hidden;
 }
 
 twi couv img {
