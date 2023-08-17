@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Assistant:wght@400;700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-twi {
-  display: block;
+.twi {
   width: 430px;
   padding: 30px;
   margin: auto;
@@ -15,20 +14,15 @@ twi int {
 }
 
 twi couv {
+  display: block;
   width: 430px;
-  margin:0 auto!important;
 }
 
 twi couv img {
   width: 430px;
   height: auto;
-}
-
-twi gif {
-  display: block;
-  width: 430px;
-  height:255px;
-  overflow: hidden;
+  position:relative;
+  left:2px;
 }
 
 twi profil {
